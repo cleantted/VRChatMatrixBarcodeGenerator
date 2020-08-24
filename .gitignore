@@ -1,0 +1,5 @@
+*.asset
+*.mat
+*.meta
+*.unity
+*.unitypackage
